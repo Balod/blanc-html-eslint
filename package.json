@@ -1,0 +1,14 @@
+{
+  "name": "classnames-order",
+  "version": "1.0.0",
+  "description": "ordering classnames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Balod",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
