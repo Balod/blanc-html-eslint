@@ -14,7 +14,7 @@ Add in your .eslintrc config file this code:
         {
           "files": ["*.html"],
           "parser": "eslint-plugin-blanc/parser",
-          "extends": ["plugin:eslint-plugin-blanc/recommended"]
+          "extends": ["plugin:blanc/recommended"]
         }
     ]
 }

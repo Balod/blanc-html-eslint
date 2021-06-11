@@ -9,12 +9,12 @@ Add in your .eslintrc config file this code:
 ```
 {
 //...
-"plugins": ["blanc-html-eslint"],
+"plugins": ["eslint-plugin-blanc"],
     "overrides": [
         {
           "files": ["*.html"],
-          "parser": "blanc-html-eslint/parser",
-          "extends": ["plugin:blanc-html-eslint/recommended"]
+          "parser": "eslint-plugin-blanc/parser",
+          "extends": ["plugin:blanc/recommended"]
         }
     ]
 }
