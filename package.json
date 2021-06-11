@@ -1,5 +1,5 @@
 {
-  "name": "blanc-html-eslint",
+  "name": "eslint-plugin-blanc",
   "version": "1.0.0",
   "description": "ordering classnames",
   "main": "index.js",

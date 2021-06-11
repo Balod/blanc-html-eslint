@@ -1,5 +1,5 @@
 module.exports = {
   rules: {
-    "blanc-html-eslint/classnames-order": "error"
+    "eslint-plugin-blanc/classnames-order": "error"
   },
 };
