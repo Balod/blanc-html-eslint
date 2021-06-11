@@ -2,7 +2,7 @@
   "name": "eslint-plugin-blanc",
   "version": "1.0.0",
   "description": "ordering classnames",
-  "main": "index.js",
+  "main": "eslint-plugin/lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
